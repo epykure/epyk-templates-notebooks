@@ -2,6 +2,6 @@
 
 ![](./static/images/logo.png)
 
-### Epyk and CodePen!
+### Epyk and Jupyter!
 
 Epyk report can be shared on Jupyter Notebooks.
