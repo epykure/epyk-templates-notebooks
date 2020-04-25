@@ -44,6 +44,7 @@ Thumbs.db
 */tests/outs/*
 */outs/html*
 *outs/html*
+.ipynb_checkpoints*
 
 # Ignore build results
 dist/*
