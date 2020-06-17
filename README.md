@@ -15,7 +15,7 @@ web platform to share your code and your questions.
 This is dedicated to help and support any developer par of the community.
 With this design it make easy the sharing of issues or questions.
 
-![](./static/images/collaborative.png)
+![](./static/images/collaborative.PNG)
 
 Most of the documentation in the code is coming from W3School website.
 
